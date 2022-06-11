@@ -1,0 +1,15 @@
+C:\Users\magve\source\repos\CSharpUdemyLearningProject\bin\Debug\net6.0\CSharpUdemyLearningProject.exe
+C:\Users\magve\source\repos\CSharpUdemyLearningProject\bin\Debug\net6.0\CSharpUdemyLearningProject.deps.json
+C:\Users\magve\source\repos\CSharpUdemyLearningProject\bin\Debug\net6.0\CSharpUdemyLearningProject.runtimeconfig.json
+C:\Users\magve\source\repos\CSharpUdemyLearningProject\bin\Debug\net6.0\CSharpUdemyLearningProject.dll
+C:\Users\magve\source\repos\CSharpUdemyLearningProject\bin\Debug\net6.0\ref\CSharpUdemyLearningProject.dll
+C:\Users\magve\source\repos\CSharpUdemyLearningProject\bin\Debug\net6.0\CSharpUdemyLearningProject.pdb
+C:\Users\magve\source\repos\CSharpUdemyLearningProject\obj\Debug\net6.0\CSharpUdemyLearningProject.csproj.AssemblyReference.cache
+C:\Users\magve\source\repos\CSharpUdemyLearningProject\obj\Debug\net6.0\CSharpUdemyLearningProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magve\source\repos\CSharpUdemyLearningProject\obj\Debug\net6.0\CSharpUdemyLearningProject.AssemblyInfoInputs.cache
+C:\Users\magve\source\repos\CSharpUdemyLearningProject\obj\Debug\net6.0\CSharpUdemyLearningProject.AssemblyInfo.cs
+C:\Users\magve\source\repos\CSharpUdemyLearningProject\obj\Debug\net6.0\CSharpUdemyLearningProject.csproj.CoreCompileInputs.cache
+C:\Users\magve\source\repos\CSharpUdemyLearningProject\obj\Debug\net6.0\CSharpUdemyLearningProject.dll
+C:\Users\magve\source\repos\CSharpUdemyLearningProject\obj\Debug\net6.0\ref\CSharpUdemyLearningProject.dll
+C:\Users\magve\source\repos\CSharpUdemyLearningProject\obj\Debug\net6.0\CSharpUdemyLearningProject.pdb
+C:\Users\magve\source\repos\CSharpUdemyLearningProject\obj\Debug\net6.0\CSharpUdemyLearningProject.genruntimeconfig.cache
