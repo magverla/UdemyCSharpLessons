@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\magve\\source\\repos\\CSharpUdemyLearningProject\\CSharpUdemyLearningProject.csproj",
+      "projectUniqueName": "C:\\MyRepo\\UdemyCSharpLessons\\CSharpUdemyLearningProject\\CSharpUdemyLearningProject.csproj",
       "projectName": "CSharpUdemyLearningProject",
-      "projectPath": "C:\\Users\\magve\\source\\repos\\CSharpUdemyLearningProject\\CSharpUdemyLearningProject.csproj",
+      "projectPath": "C:\\MyRepo\\UdemyCSharpLessons\\CSharpUdemyLearningProject\\CSharpUdemyLearningProject.csproj",
       "packagesPath": "C:\\Users\\magve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\magve\\source\\repos\\CSharpUdemyLearningProject\\obj\\",
+      "outputPath": "C:\\MyRepo\\UdemyCSharpLessons\\CSharpUdemyLearningProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
