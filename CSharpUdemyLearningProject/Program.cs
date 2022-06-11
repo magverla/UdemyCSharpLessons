@@ -2,3 +2,4 @@
 
 Console.WriteLine("Hello, World!");
 CSharpUdemyLearningProject.Lessons.LessonOne();
+CSharpUdemyLearningProject.Lessons.LessonTwo();
