@@ -35,5 +35,32 @@ namespace CSharpUdemyLearningProject
             Console.WriteLine("{0} hat die Länge {1}", "Test", "Test".Length);
         }
 
+        public static void LessonThree()
+        {
+            ErsteKlasse.Human h1 = new ErsteKlasse.Human("Vorname", "Nachname");
+            h1.IntroduceYourSelf();
+            h1.firstName = "Neuer Vorname";
+            h1.lastName = "Neuer Nachname";
+            h1.IntroduceYourSelf();
+            ErsteKlasse.Human h2 = new ErsteKlasse.Human("Vorname_h1", "Nachname_h1");
+            h2.IntroduceYourSelf();
+            h2.firstName = "Neuer " + h2.firstName;
+            h2.lastName = "Neuer " + h2.lastName;
+            h2.eyeColor = "Blau";
+            h2.age = 36;
+            h2.IntroduceYourSelf();
+            ErsteKlasse.Human h3 = new ErsteKlasse.Human();
+            h3.IntroduceYourSelf();
+        }
+
+        public static void LessonFour()
+        {
+            Box b = new Box();
+            b.Breite = 1;
+            b.Länge = 2;
+            b.TellMeAboutTheBox();
+
+        }
+
     }
 }

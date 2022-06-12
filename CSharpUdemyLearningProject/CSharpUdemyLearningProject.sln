@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpUdemyLearningProject", "CSharpUdemyLearningProject.csproj", "{AF8A6E5F-6858-4433-8476-F4F7A56388B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpUdemyLearningProject", "CSharpUdemyLearningProject.csproj", "{AF8A6E5F-6858-4433-8476-F4F7A56388B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6B3D2734-AF11-4A77-BDB7-5EF94E2F0597}"
+	ProjectSection(SolutionItems) = preProject
+		Box.cs = Box.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
