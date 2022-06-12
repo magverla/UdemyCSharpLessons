@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharpUdemyLearningProject
 {
-    
+
     internal class Lessons
     {
         public static void LessonOne()
@@ -59,8 +59,32 @@ namespace CSharpUdemyLearningProject
             b.Breite = 1;
             b.Länge = 2;
             b.TellMeAboutTheBox();
-
         }
 
+        public static void LessonFive()
+        {
+            int[][] jaggedArray = new int[3][];
+
+            jaggedArray[0] = new int[5];
+            jaggedArray[1] = new int[6];
+            jaggedArray[2] = new int[7];
+
+            jaggedArray[0] = new int[] { 1, 2, 3, 4, 5 };
+            jaggedArray[1] = new int[] { 2, 3, 4, 5, 6, 7 };
+            jaggedArray[2] = new int[] { 3, 4, 5, 6, 7, 8, 9 };
+            int j = 0;
+            int k = 0;
+            foreach (int[] jagged in jaggedArray)
+            {
+                k += jagged.Length;
+                foreach (int i in jagged)
+                {
+                    j++;
+                    Console.WriteLine($"{i} ist der Wert im Array int[{jagged.Length}]");
+                }
+            }
+            Console.WriteLine(j==k);
+
+        }
     }
 }
